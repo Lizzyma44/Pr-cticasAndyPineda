@@ -1,0 +1,62 @@
+.lily{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: purple;
+    border-width: 2px;
+
+    width: 50%;
+
+    margin: 25px auto 25px;
+
+    padding: 10px;
+
+    text-align: center;
+
+    box-sizing: border-box;
+}
+
+img{
+    width: 75%;
+}
+
+.leer{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: purple;
+    border-width: 2px;
+
+    width: 50%;
+
+    margin: 25px auto 25px;
+
+    padding: 10px;
+
+    text-align: center;
+
+    box-sizing: border-box;
+}
+
+img{
+    width: 75%;
+}
+
+.amigos{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: purple;
+    border-width: 2px;
+
+    width: 50%;
+
+    margin: 25px auto 25px;
+
+    padding: 10px;
+
+    text-align: center;
+
+    box-sizing: border-box;
+}
+
+img{
+    width: 75%;
+}
