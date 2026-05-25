@@ -46,6 +46,7 @@ header {
 .menu {
     display: flex;
     justify-content: center;
+    flex-direction: row;
     list-style: none;
     gap: 20px;
     font-size: 0.9rem;
