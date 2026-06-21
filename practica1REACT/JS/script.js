@@ -20,6 +20,7 @@ boton.addEventListener('click', () => {
 momento
 let nombreJuego = inputJuego.value;
 let nota = Number(inputCalificacion.value);
+
 // Validación básica por si dejan los campos vacíos
 if (nombreJuego === "" || inputCalificacion.value === "") {
 textoResultado.innerText = "Oye tío, pon un nombre y una nota válida.";
